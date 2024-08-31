@@ -44,7 +44,7 @@ Amazon RDS (Relational Database Service)
 ###Clone the Repository
 
 
-git clone https://github.com/MShalbi/3tier/.git
+git clone https://github.com/MShalbi/3tier.git
 cd your-repo-directory
 
 
